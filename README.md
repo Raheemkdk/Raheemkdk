@@ -34,7 +34,7 @@ I'm a software engineer passionate about building practical, people-centered app
 
 ---
 
-### `> tech_stack --list`
+### `>Tech Stack`
 
 <div align="center">
 
@@ -59,43 +59,6 @@ I'm a software engineer passionate about building practical, people-centered app
 ![VS Code](https://img.shields.io/badge/VS_Code-101020?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF)
 
 </div>
-
----
-
-### `> ls featured_projects/`
-
-#### 🍽️ LazyEats
-**Full-Stack Meal Discovery & Nutrition Tracker**
-
-Built with a four-person development team to help users discover affordable meals, manage recipes, and track daily nutrition.
-
-`React` `Node.js` `Express` `PostgreSQL`
-
-#### 📅 Workforce Scheduling Platform
-**Employee Scheduling & Workflow Management**
-
-A full-stack application focused on simplifying scheduling and reducing manual administrative work.
-
-#### 🐠 Virtual Aquarium Builder — Concept
-**Interactive Aquarium Planning**
-
-Exploring a virtual aquarium experience with species compatibility, customizable tanks, aquatic plants, and dynamic biological-load estimates.
-
----
-
-### `> github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raheemkdk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF5AF2&text_color=C9D1D9" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raheemkdk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
----
 
 ### `> current_mission`
 
