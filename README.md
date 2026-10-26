@@ -1,4 +1,4 @@
-
+=]
 # <div align="center">Hey, I'm Raheem ⚡</div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-### `> whoami`
+### `> Who Am I`
 
 ```javascript
 const raheem = {
